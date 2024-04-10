@@ -6,7 +6,6 @@
     max-width: 100%;
     height: auto;
 }
-
 .contprincipal{
     margin-top: 5vw;
     max-width: 100%;
@@ -21,13 +20,16 @@
     height: auto;
     background-color: yellow;
     text-align: justify;
+    padding: 0 1vw 0 1vw; 
 }
 .contp2{
+    padding: 0 1vw 0 1vw; 
     max-width: 100%;
     height: auto;
     background-color: blue;
 }
 .contp3{
+    padding: 0 1vw 0 1vw; 
     max-width: 100%;
     height: auto;
     background-color: red;
@@ -47,8 +49,16 @@
     max-width: 100%;
 }
 footer{
-    margin: 3vw 2vw 0 2vw;
-    border: solid black 0.1vw;
+    margin-top: 10vw;
     max-width: 100%;
     height: auto    ; 
+}
+.redes{
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    margin: 3vw;
+}
+.logo{
+    width: 20%;
 }
